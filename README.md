@@ -418,3 +418,8 @@ monthly_salary = monthly_base_salary + monthly_bonus - monthly_taxes - social_se
 -   **Calculated Monthly Salary:** Final monthly salary considering bonuses and deductions.
 
 The `calculate_monthly_salary()` method in the HRMIS system triggers the salary calculation based on the employee's type and relevant attributes. After computing the salary, a pay slip is generated for the employee.
+
+
+
+
+Copyright @Geredi NIYIBIGIRA

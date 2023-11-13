@@ -1,0 +1,2 @@
+Employee ID: 10
+Total Salary: $1640.00

@@ -1,0 +1,2 @@
+Employee ID: 12
+Total Salary: $5375.00

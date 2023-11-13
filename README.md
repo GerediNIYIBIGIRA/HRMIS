@@ -423,3 +423,5 @@ The `calculate_monthly_salary()` method in the HRMIS system triggers the salary 
 
 
 Copyright @Geredi NIYIBIGIRA
+
+This is for feature branch
